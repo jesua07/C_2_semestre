@@ -1,0 +1,3 @@
+D:/LP/ex6/cmake-build-debug/CMakeFiles/ex6.dir
+D:/LP/ex6/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/LP/ex6/cmake-build-debug/CMakeFiles/rebuild_cache.dir
